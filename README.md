@@ -2,6 +2,6 @@
 Hi, I'm Natalie.
 **An aspiring Unity game developer who's passionate about bringing games from the drawing board into reality.**
 - I'm currently ...
- - 🌱 learning Game Development in Unity
- - 🌳  Practicing Design Patterns and coding with SOLID principles
+   - 🌱 learning Game Development in Unity
+   - 🌳  Practicing Design Patterns and coding with SOLID principles
 - 🦾 I'm looking to collaborate on game projects and expand my network.
